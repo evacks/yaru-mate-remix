@@ -10,3 +10,13 @@ The modern Yaru MATE icon set with the old ubuntu MATE icons
 * Select your preferred icon set 
 
 Alternatively, you can grab yourself the zip file in Releases! :smile: 
+
+## preview
+
+### Yaru MATE Remix Dark
+![yaru-mate-remix-dark preview](https://raw.githubusercontent.com/eagavi/yaru-mate-remix/main/preview/yaru-mate-preview-dark.png)
+
+### Yaru MATE Remix Light
+![yaru-mate-remix-light preview](https://raw.githubusercontent.com/eagavi/yaru-mate-remix/main/preview/yaru-mate-preview-light.png)
+
+
