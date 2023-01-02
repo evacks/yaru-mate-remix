@@ -8,3 +8,5 @@ The modern Yaru MATE icon set with the old ubuntu MATE icons
 * Choose the `Yaru MATE Dark` or `Yaru MATE Light` theme
 * Click `customize`
 * Select your preferred icon set 
+
+Alternatively, you can grab yourself the zip file in Releases! :smile: 
