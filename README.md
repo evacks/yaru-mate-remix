@@ -1,5 +1,8 @@
 # yaru-mate-remix
-The modern Yaru MATE icon set with the old ubuntu MATE icons
+The modern Yaru MATE icon set with the old ubuntu MATE icons. Both the light & dark variant are included
+
+## here be dragons
+This has only been tested on Ubuntu MATE
 
 ## usage
 * Clone this repository 
