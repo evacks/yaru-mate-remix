@@ -2,7 +2,8 @@
 The modern Yaru MATE icon set with the old ubuntu MATE icons. Both the light & dark variant are included
 
 ## here be dragons
-This has only been tested on Ubuntu MATE
+This has only been tested on Ubuntu MATΕ
+⚠ I don't currently use Ubuntu MATE - this project is not actively updated but it should still work. Feel free to file any pull requests if anything is wonky
 
 ## usage
 * Clone this repository 
@@ -17,9 +18,9 @@ Alternatively, you can grab yourself the zip file in Releases! :smile:
 ## preview
 
 ### Yaru MATE Remix Dark
-![yaru-mate-remix-dark preview](https://raw.githubusercontent.com/eagavi/yaru-mate-remix/main/preview/yaru-mate-preview-dark.png)
+![yaru-mate-remix-dark preview](https://raw.githubusercontent.com/evacks/yaru-mate-remix/main/preview/yaru-mate-preview-dark.png)
 
 ### Yaru MATE Remix Light
-![yaru-mate-remix-light preview](https://raw.githubusercontent.com/eagavi/yaru-mate-remix/main/preview/yaru-mate-preview-light.png)
+![yaru-mate-remix-light preview](https://raw.githubusercontent.com/evacks/yaru-mate-remix/main/preview/yaru-mate-preview-light.png)
 
 
